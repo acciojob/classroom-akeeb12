@@ -7,6 +7,6 @@ public class Student {
     private double averageScore;
 
     public Student(){
-
+        
     }
 }
